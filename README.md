@@ -13,10 +13,6 @@ A secure, user-friendly desktop application built using Python and Tkinter that 
 - 🔍 **Password Search**: Look up stored credentials by website.
 - 📦 **Simple GUI**: Built using Tkinter for an intuitive and responsive interface.
 
-## 🖼️ GUI Preview
-
-*(Add screenshot of your app GUI here)*
-
 ## 🛠️ Technologies Used
 
 - **Python 3**
